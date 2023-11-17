@@ -22,7 +22,7 @@ uf.Union(2, 3);
 bool isConnected = uf.Connected(1, 2);
 
 // Print the current state of sets
-uf.PrintSets();
+uf.Print();
 ```
 
 ## Getting Started
