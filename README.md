@@ -10,9 +10,9 @@ The Quick Find algorithm works by assigning a unique identifier to each set and 
 
 The implementation provides a simple API for initializing sets, performing union operations, and checking whether elements are connected. Example usage:
 
-csharp
+```csharp
 // Create a set with N elements
-QuickFind uf = new QuickFind(N);
+QuickFindUF uf = new QuickFindUF(N);
 
 // Perform union operations
 uf.Union(0, 1);
@@ -22,16 +22,16 @@ uf.Union(2, 3);
 bool isConnected = uf.Connected(1, 2);
 
 // Print the current state of sets
-uf.Print();
-
+uf.PrintSets();
+```
 
 ## Getting Started
 
 To use this implementation in your C# project, simply clone the repository and incorporate the `QuickFind.cs` file into your project.
 
-bash
+```bash
 git clone https://github.com/Musab-Dev/quick-find-algorithm.git
-
+```
 
 ## Contributing
 
