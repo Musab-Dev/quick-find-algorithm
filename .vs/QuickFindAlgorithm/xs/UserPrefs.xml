@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{FB917D9E-B351-4D1A-A138-7E5C7C8FB196}|Default">
+  <MonoDevelop.Ide.ItemProperties.QuickFindAlgorithm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuickFindAlgorithm/Program.cs">
+    <Files>
+      <File FileName="QuickFindAlgorithm/Program.cs" Line="19" Column="14" />
+      <File FileName="QuickFindAlgorithm/QuickFind.cs" Line="59" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuickFindAlgorithm" expanded="True" selected="True">
+            <Node name="QuickFindAlgorithm" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

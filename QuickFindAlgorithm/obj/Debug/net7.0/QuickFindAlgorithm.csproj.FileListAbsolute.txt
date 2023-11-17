@@ -1,0 +1,15 @@
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/bin/Debug/net7.0/QuickFindAlgorithm
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/bin/Debug/net7.0/QuickFindAlgorithm.deps.json
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/bin/Debug/net7.0/QuickFindAlgorithm.runtimeconfig.json
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/bin/Debug/net7.0/QuickFindAlgorithm.dll
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/bin/Debug/net7.0/QuickFindAlgorithm.pdb
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/QuickFindAlgorithm.csproj.AssemblyReference.cache
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/QuickFindAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/QuickFindAlgorithm.AssemblyInfoInputs.cache
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/QuickFindAlgorithm.AssemblyInfo.cs
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/QuickFindAlgorithm.csproj.CoreCompileInputs.cache
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/QuickFindAlgorithm.dll
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/refint/QuickFindAlgorithm.dll
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/QuickFindAlgorithm.pdb
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/QuickFindAlgorithm.genruntimeconfig.cache
+/Users/musabmosameh/Projects/QuickFindAlgorithm/QuickFindAlgorithm/obj/Debug/net7.0/ref/QuickFindAlgorithm.dll
