@@ -1,3 +1,5 @@
+This repository is done as practice during Algorithm Part 01 course introduced by Princeton University on Coursera. 
+
 # QuickFind Algorithm in C#
 
 This repository contains a C# implementation of the Quick Find algorithm, a simple but inefficient algorithm for solving the Union-Find problem. The Union-Find problem involves efficiently keeping track of a set of elements partitioned into disjoint sets and supporting two main operations: union (merge two sets into one) and find (determine which set an element belongs to).
